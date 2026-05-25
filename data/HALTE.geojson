@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "HALTE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "Name": "Halte Semeru", "REMARK": "Halte" }, "geometry": { "type": "Point", "coordinates": [ 111.98553000007557, -7.82834999955692, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "Name": "Halte Ahmad Dahlan", "REMARK": "Halte" }, "geometry": { "type": "Point", "coordinates": [ 112.002530000170438, -7.802250000230329, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "Name": "Halte Semampir", "REMARK": "Halte" }, "geometry": { "type": "Point", "coordinates": [ 112.009909999854031, -7.793190000295366, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "Name": "Halte Imam Bonjol", "REMARK": "Halte" }, "geometry": { "type": "Point", "coordinates": [ 112.023979999965889, -7.812790000379405, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "Name": "Halte Permata Hijau", "REMARK": "Halte" }, "geometry": { "type": "Point", "coordinates": [ 112.031050000062862, -7.838720000063554, 0.0 ] } }
+]
+}
